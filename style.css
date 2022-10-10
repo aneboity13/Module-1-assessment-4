@@ -1,0 +1,21 @@
+h1{
+    color :green;
+    font-family: sans-serif;
+}
+
+p{
+    color:coral;
+    font-family:fantasy
+}
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #47be3c93;
+}
+th{
+    font-weight: 800;
+    background-color: #47be3c93;
+    color: white;
+}
